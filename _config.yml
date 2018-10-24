@@ -9,7 +9,7 @@
 title: OEApp
 brief-intro: Welcome to OEApp
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.oeapp.com/" # the base hostname & protocol for your site
+url: "https://ioeapp.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: OEApp.com
+description_footer:
 
 # comments
 # two ways to comment, only choose one, and use your own short name

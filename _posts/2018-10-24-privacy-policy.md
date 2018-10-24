@@ -21,4 +21,4 @@ OEApp may update this privacy policy by posting a new version on this website. Y
 
 ## Contact
 
-If you have any questions, complaints, or requests concerning your data, this privacy policy, or OEApp's treatment of your personal information, please email:  [oeapp@outlook.com](mailto:oeapp@outlook.com)
+If you have any questions, complaints, or requests concerning your data, this privacy policy, or OEApp's treatment of your personal information, please email:  [oeapp@outlook.com](mailto:oeapp@outlook.com).
